@@ -1,0 +1,15 @@
+
+.profile-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+.body h1{
+    display: flex;
+    justify-content: center;
+}
+.body p{
+    display: flex;
+    justify-content: center;
+}
